@@ -12,6 +12,11 @@
 
 The dataset used in this projetc contains house sales price for King County (USA) in the period between May 2014 and May 2015. It is available on [Kaggle - House Sales in King County](https://www.kaggle.com/harlfoxem/housesalesprediction). 
 
+House Rocket's CEO set the following business problems:
+- 1.
+- 2.
+- 3.
+
 # 2. Business Assumptions
 
 # 3. Solution Strategy
