@@ -12,7 +12,7 @@ The dataset used in this projetc contains house sales price for King County (USA
 
 # 1. Business Problem
 
-# 2. Business Assumption
+# 2. Business Assumptions
 
 # 3. Solution Strategy
 
