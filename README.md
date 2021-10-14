@@ -17,11 +17,11 @@ House Rocket's CEO set the following **business problems**:
 - 2. After the properties are in the company's possession, what is the best time to sell them and what would the sale prices be?
 - 3. Should House Rocket do a renovation to raise the sale price? What would be the suggestions for changes? What is the price increase given for each refurbishment option?
 
-### Questions and Answers (Q&A)
+### Questions
 ---
-In order to improve the decision making, the House Rocket's CEO created many sets of questions and answers:
+In order to improve the decision making, the House Rocket's CEO created many sets of questions:
 
-#### Q&A 1.0
+#### Questions 1.0
 
 1. How many properties are available for purchase?
 2. How many attributes do properties have?
