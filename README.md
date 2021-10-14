@@ -35,8 +35,8 @@ In order to improve the decision making, the House Rocket's CEO created many set
 10. What is the minimum price for the 3-bedrooms properties?
 11. How many properties have more than 300 square meters in the living room?
 12. How many properties have more than two floors?
-13. How many properties have a water view?
-14. Among properties with a water view, how many have three bedrooms?
+13. How many properties have a waterfront?
+14. Among properties with a waterfront, how many have three bedrooms?
 15. Among properties with more than 300 square meters in the living room, how many have more than two bathrooms?
 
 #### Q&R 2.0
@@ -142,14 +142,14 @@ Deploy to Heroku a portfolio as follows:
 3. Total number of properties by zipcode, average by zipcode, average living room size by zipcode and average price per square meters by zipcode. 
 4. Descriptive analysis for each column.
 5. Daily and annual price fluctuation.
-6. Properties distributed by: price, number of bedrooms, number of bathrooms, number of floors and water view.   
+6. Properties distributed by: price, number of bedrooms, number of bathrooms, number of floors and waterfront.   
 
 
 # 2. Business Assumptions
 
 **Assumptions** were formulated in order to be tested.
 
-  1. Properties with **water view** are **30% more expensive** on average;
+  1. Properties with **waterfront** are **45% more expensive** on average;
   2. Properties with **construction date earlier than 1950** are **50% cheaper** on average;  
   3. Properties with **basement** have total area (sqft_lot) **25% larger** than those without basement;
   4. The **price growth** is approximately **10% YoY** (Year over Year); 
