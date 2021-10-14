@@ -53,6 +53,17 @@ In order to improve the decision making, the House Rocket's CEO created many set
    - Property classification.
 5. A map where the houses are located geographically.
 
+#### Q&R 3.0
+
+1. Create a column called: house_age. 
+   - If the value of the "date" column is greater than 2014-01-01 => 'new_house'.
+   - If the value of the "date" column is less than 2014-01-01 => 'old_house'.  
+2. Create a column called: dormitory_type.
+   - If the value of the "bedrooms" column is equal to 1 => 'studio'.
+   - If the value of the "bedrooms" column is equal to 2 => 'apartment'.
+   - If the value of the "bedrooms" column is greater than 2 => 'house'.
+3.
+
 # 2. Business Assumptions
 
 # 3. Solution Strategy
