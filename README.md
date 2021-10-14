@@ -133,8 +133,15 @@ In order to improve the decision making, the House Rocket's CEO created many set
 6. Add a filter to the last dashboard:
    - Show values only from a specific date.
 
+#### Q&R 7.0
 
-  
+Publish to Heroku a portfolio as follows:
+
+1. Add filters by region.
+2. Choose attributes to visualize.
+3. Total number of properties by zipcode, average by zipcode, average living room size by zipcode and average price per square meters by zipcode. 
+4. Descriptive analysis for each column.
+5.   
 
 
 # 2. Business Assumptions
