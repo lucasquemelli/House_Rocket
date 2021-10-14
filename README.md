@@ -164,7 +164,7 @@ Deploy to Heroku a portfolio as follows:
 
 **Step 03 - Insights**: the highlight of the main insights.
 
-**Step 04 - Conversion of insights**: converting insights into business decisions.
+**Step 04 - Conversion of insights**: converting insights into business results.
 
 **Step 05 - Deploy**: publishing the results to Heroku (cloud environment).
 
