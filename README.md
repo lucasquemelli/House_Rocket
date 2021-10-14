@@ -141,7 +141,8 @@ Publish to Heroku a portfolio as follows:
 2. Choose attributes to visualize.
 3. Total number of properties by zipcode, average by zipcode, average living room size by zipcode and average price per square meters by zipcode. 
 4. Descriptive analysis for each column.
-5.   
+5. Daily and annual price fluctuation.
+6. Properties distributed by: price, number of bedrooms, number of bathrooms, number of floors and water view.   
 
 
 # 2. Business Assumptions
