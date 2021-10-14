@@ -112,6 +112,30 @@ In order to improve the decision making, the House Rocket's CEO created many set
 9. Create a dashboard with the charts of the questions 03 and 05.
 10. Create a map with the points proportional to to the living room size. 
 
+#### Q&R 6.0
+
+1. How many properties per level?
+   - Level 0: price between $0.00 and $321.950
+   - Level 1: price between $321.950 and $450.000
+   - Level 2: price between $450.000 and $645.000
+   - Level 3: price above $645.000
+2. Add the following information to the properties:
+   - Street;
+   - Number;
+   - Neighbourhood;
+   - City;
+   - State.
+3. Add the level of the price as a color in the map.
+4. Make the points proportional to the price in the map.
+5. Add filters to the map:
+   - Water view or not;
+   - Value of the price.
+6. Add a filter to the last dashboard:
+   - Show values only from a specific date.
+
+
+  
+
 
 # 2. Business Assumptions
 
