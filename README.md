@@ -18,7 +18,7 @@ House Rocket's CEO set the following **business problems**:
 - 3. Should House Rocket do a renovation to raise the sale price? What would be the suggestions for changes? What is the price increase given for each refurbishment option?
 
 ### Questions and Answers (Q&A)
-
+---
 In order to improve the decision making, the House Rocket's CEO created many sets of questions and answers:
 
 #### Q&A 1.0
