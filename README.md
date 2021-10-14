@@ -83,6 +83,21 @@ In order to improve the decision making, the House Rocket's CEO created many set
 18. Select some columns by their names, by their index and by boolean indexing. 
 19. Save a .csv file with columns 10 through 17 only.
 
+#### Q&R 4.0
+
+1. What is the number of properties per year of construction?
+2. What is the smallest number of bedrooms per year of construction?
+3. What is the highest price per number of bedrooms?
+4. What is the sum of the price per number of bedrooms?
+5. What is the sum of the price per number of bedrooms and bathrooms?
+6. What is the average living room size per year of construction?
+7. What is the median property size per year of construction?
+8. What is the standard deviation of the living room size per year of construction?
+9. Create charts for the price by year, by day and by week.
+10. A map to visualize the properties with the highest prices.
+
+#### Q&R 5.0
+
 # 2. Business Assumptions
 
 # 3. Solution Strategy
