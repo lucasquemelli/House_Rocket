@@ -39,6 +39,20 @@ In order to improve the decision making, the House Rocket's CEO created many set
 14. Among properties with a water view, how many have three bedrooms?
 15. Among properties with more than 300 square meters in the living room, how many have more than two bathrooms?
 
+#### Q&R 2.0
+
+1. What is the date of the oldest property in the portfolio?
+2. How many properties have the maximum number of floors?
+3. Create a low and high standard classification for properties. Above $540000.00 -> high standard. Below $540000.00 -> low standard.
+4. Report ordered by price with the following information:
+   - Property ID;
+   - Date the property became available for purchase;
+   - Number of bedrooms;
+   - Total lend size;
+   - Price;
+   - Property classification.
+5. A map where the houses are located geographically.
+
 # 2. Business Assumptions
 
 # 3. Solution Strategy
