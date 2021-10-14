@@ -135,7 +135,7 @@ In order to improve the decision making, the House Rocket's CEO created many set
 
 #### Q&R 7.0
 
-Publish to Heroku a portfolio as follows:
+Deploy to Heroku a portfolio as follows:
 
 1. Add filters by region.
 2. Choose attributes to visualize.
