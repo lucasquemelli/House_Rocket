@@ -80,7 +80,8 @@ In order to improve the decision making, the House Rocket's CEO created many set
 15. How many properties of the type 'apartment' were renovated in 2015?
 16. What is the largest number of "bedrooms" that a property of the type 'house' has?
 17. How many properties of the type 'new_house' were renovated in 2014?
-18. Save a .csv file with columns 10 through 17 only.
+18. Select some columns by their names, by their index and by boolean indexing. 
+19. Save a .csv file with columns 10 through 17 only.
 
 # 2. Business Assumptions
 
