@@ -158,15 +158,15 @@ Deploy to Heroku a portfolio as follows:
 
 # 3. Solution Strategy
 
-**Step 01 - Exploratory data analysis**. The main goal is better understand the dataset by applying statistics metrics as well as identifying missing values and outliers.
+**Step 01 - Exploratory data analysis**: the main goal is better understand the dataset by applying statistics metrics as well as identifying missing values and outliers.
 
-**Step 02 - Feature selection**. Identifying the most important attributes related to the price.
+**Step 02 - Feature selection**: identifying the most important attributes related to the price.
 
-**Step 03 - Insights**. The highlight of the main insights.
+**Step 03 - Insights**: the highlight of the main insights.
 
-**Step 04 - Conversion of insights**. Converting insights into business decisions.
+**Step 04 - Conversion of insights**: converting insights into business decisions.
 
-**Step 05 - Deploy**. Publishing the results to Heroku (cloud environment).
+**Step 05 - Deploy**: publishing the results to Heroku (cloud environment).
 
 # 4. Top 5 Data Insights
 
