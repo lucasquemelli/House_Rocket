@@ -29,6 +29,15 @@ In order to improve the decision making, the House Rocket's CEO created many set
 4. What is the most expensive property? (with the highest sale price)
 5. What property has the largest number of bedrooms?
 6. What is the total sum of the number of bedrooms in the dataset?
+7. How many properties have two bathrooms?
+8. What is the average price of all properties in the dataset?
+9. What is the average price of the properties with two bathrooms?
+10. What is the minimum price for the 3-bedrooms properties?
+11. How many properties have more than 300 square meters in the living room?
+12. How many properties have more than two floors?
+13. How many properties have a water view?
+14. Among properties with a water view, how many have three bedrooms?
+15. Among properties with more than 300 square meters in the living room, how many have more than two bathrooms?
 
 # 2. Business Assumptions
 
