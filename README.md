@@ -106,7 +106,11 @@ In order to improve the decision making, the House Rocket's CEO created many set
 3. Draw a line chart: average price per year of construction.
 4. Draw a bar chart: average price per dormitory type.
 5. Draw a line chart: price per year of renovation - since 1930.
- 
+6. Make a table: average price per year of construction and per dormitory type.
+7. Create a dashboard with the charts of the questions 02, 03 and 04.
+8. Create a dashboard with the charts of the questions 02 and 04.
+9. Create a dashboard with the charts of the questions 03 and 05.
+10. Create a map with the points proportional to to the living room size. 
 
 
 # 2. Business Assumptions
