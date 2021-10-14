@@ -56,13 +56,31 @@ In order to improve the decision making, the House Rocket's CEO created many set
 #### Q&R 3.0
 
 1. Create a column called: house_age. 
-   - If the value of the "date" column is greater than 2014-01-01 => 'new_house'.
-   - If the value of the "date" column is less than 2014-01-01 => 'old_house'.  
+   - If the value of the column "date" is greater than 2014-01-01 => 'new_house'.
+   - If the value of the column "date" is less than 2014-01-01 => 'old_house'.  
 2. Create a column called: dormitory_type.
-   - If the value of the "bedrooms" column is equal to 1 => 'studio'.
-   - If the value of the "bedrooms" column is equal to 2 => 'apartment'.
-   - If the value of the "bedrooms" column is greater than 2 => 'house'.
-3.
+   - If the value of the column "bedrooms" is equal to 1 => 'studio'.
+   - If the value of the column "bedrooms" is equal to 2 => 'apartment'.
+   - If the value of the column "bedrooms" is greater than 2 => 'house'.
+3. Create a column called: condition_type.
+   - If the value of the column "condition" is less than or equal to 2 => 'bad'.
+   - If the value of the column "condition" is equal to 3 or 4 => 'regular'.
+   - If the value of the column "condition" is equal to 5 => 'good'.
+4. Change the type of the column "condition" to string.
+5. Delete the columns: sqft_living15 and sqft_lot15.
+6. Change the type of the column "yr_built" to date.
+7. Change the type of the column "yr_renovated" to date.
+8. What is the earliest construction date of a property?
+9. What is the earliest date for renovation of a property?
+10. How many properties have 2 floors?
+11. How many properties have the "condition_type" equals to 'regular'?
+12. How many properties have the "condition_type" equals to 'bad' and have a water view?
+13. How many properties have the "condition_type" equals to 'good' and "house_age" equals to 'new_house'?
+14. What is the price of the most expensive property of the "dormitory_type" which is equal to 'studio'?
+15. How many properties of the type 'apartment' were renovated in 2015?
+16. What is the largest number of "bedrooms" that a property of the type 'house' has?
+17. How many properties of the type 'new_house' were renovated in 2014?
+18. Save a .csv file with columns 10 through 17 only.
 
 # 2. Business Assumptions
 
