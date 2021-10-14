@@ -98,6 +98,17 @@ In order to improve the decision making, the House Rocket's CEO created many set
 
 #### Q&R 5.0
 
+1. Create a column called: dormitory_type.
+   - If the value of the column "bedrooms" is equal to 1 => 'studio'.
+   - If the value of the column "bedrooms" is equal to 2 => 'apartment'.
+   - If the value of the column "bedrooms" is greater than 2 => 'house'.
+2. Draw a bar chart: sum of the prices per number of bedrooms.
+3. Draw a line chart: average price per year of construction.
+4. Draw a bar chart: average price per dormitory type.
+5. Draw a line chart: price per year of renovation - since 1930.
+ 
+
+
 # 2. Business Assumptions
 
 # 3. Solution Strategy
