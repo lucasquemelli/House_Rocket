@@ -149,12 +149,12 @@ Deploy to Heroku a portfolio as follows:
 
 **Assumptions** were formulated in order to be tested.
 
-1 - Properties with **water view** are **30% more expensive** on average;
-2 - Properties with **construction date earlier than 1950** are **50% cheaper** on average;
-3 - Properties with **basement** have total area (sqft_lot) **25% larger** than those without basement;
-4 - The **price growth** is approximately **10% YoY** (Year over Year); 
-5 - **3-bathrooms properties** has a MoM (Month over Month) **growth of 15%**;
-6 - Houses **constructed in the last 10 years** have **higher prices**. 
+  1. Properties with **water view** are **30% more expensive** on average;
+  2. Properties with **construction date earlier than 1950** are **50% cheaper** on average;  
+  3. Properties with **basement** have total area (sqft_lot) **25% larger** than those without basement;
+  4. The **price growth** is approximately **10% YoY** (Year over Year); 
+  5. **3-bathrooms properties** has a MoM (Month over Month) **growth of 15%**;
+  6. Houses **constructed in the last 10 years** have **higher prices**. 
 
 # 3. Solution Strategy
 
