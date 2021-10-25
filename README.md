@@ -19,7 +19,7 @@ House Rocket's CEO set the following **business problems**:
 
 ### Questions and Requests (Q&R)
 ---
-In order to improve the decision making, the House Rocket's CEO created many sets of questions and requests:
+In order to improve the decision making, the House Rocket's CEO created 7 sets of questions and requests:
 
 #### Q&R 1.0
 
