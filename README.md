@@ -25,7 +25,7 @@ Furthermore, in order to improve the decision making, the House Rocket's CEO cre
 
   1. Properties with **waterfront** are **45% more expensive** on average;
   2. Properties with **construction date earlier than 1950** are **50% cheaper** on average;  
-  3. Properties with **basement** have total area (sqft_lot) **25% larger** than those without basement;
+  3. Properties with **basement** have total area (sqft_living) **25% larger** than those without basement;
   4. The **price growth** is approximately **10% YoY** (Year over Year); 
   5. **3-bathrooms properties** has a MoM (Month over Month) **growth of 15%**;
   6. Houses **constructed in the last 10 years** have **higher prices**. 
