@@ -19,9 +19,9 @@ House Rocket's CEO set the following **business problems**:
 
 Furthermore, in order to improve the decision making, the House Rocket's CEO created 7 sets of questions and requests. Those questions will be seen in "Exploratory data analysis" section.
 
-# 2. Business Assumptions - Formulated Hypothesis
+# 2. Business Assumptions (Formulated Hypothesis)
 
-**Assumptions** were formulated in order to be tested.
+**Assumptions (hypothesis)** were formulated in order to be tested.
 
   1. Properties with **waterfront** are **45% more expensive** on average;
   2. Properties with **construction date earlier than 1950** are **50% cheaper** on average;  
@@ -36,7 +36,7 @@ Furthermore, in order to improve the decision making, the House Rocket's CEO cre
 
 **Step 02 - Feature selection**: identifying the most important attributes related to the price.
 
-**Step 03 - Assumptions test - Hypothesis test**: testing the formulated assumptions.
+**Step 03 - Assumptions test (Hypothesis test)**: testing the formulated assumptions.
 
 **Step 04 - Insights**: the highlight of the main insights.
 
