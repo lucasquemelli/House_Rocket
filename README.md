@@ -23,12 +23,13 @@ Furthermore, in order to improve the decision making, the House Rocket's CEO cre
 
 **Assumptions (hypothesis)** were formulated in order to be tested.
 
-  1. Properties with **waterfront** are **45% more expensive** on average and **40% on median**;
-  2. Properties with **construction date earlier than 1950** are **10% cheaper** on average and **15% on median**;  
+  1. Properties with **waterfront** are **45% more expensive on average** and **40% on median**;
+  2. Properties with **construction date earlier than 1950** are **10% cheaper on average** and **15% on median**;  
   3. Properties with **basement** have total area (sqft_living) **25% larger** than those without basement;
   4. The **average price growth** is approximately **10% YoY** (Year over Year); 
   5. **3-bathrooms properties** has a MoM (Month over Month) **growth of 15%**;
-  6. Properties **constructed after 2010** have **higher prices**. 
+  6. Properties **constructed after 2010** have **higher prices**.
+  7. Properties **renovated** are **30% more expensive on average** and **25% on median**. 
 
 # 3. Solution Strategy
 
