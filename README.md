@@ -45,7 +45,7 @@ Furthermore, in order to improve the decision making, the House Rocket's CEO cre
 
 **Step 06 - Deploy**: publishing the results to Heroku (cloud environment).
 
-# 4. Top 5 Data Insights
+# 4. Top 3 Data Insights
 
 # 5. Business Results
 
