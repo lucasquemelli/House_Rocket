@@ -49,7 +49,7 @@ Furthermore, in order to improve the decision making, the House Rocket's CEO cre
 
 **Hypothesis 1:** Properties with waterfront are 45% more expensive on average and 40% on median.
 
-**True.** Although these properties really are more expensive, they are much more expensive than supposed: around 213% and 211% more expensive, on average and on median, respectively. That represents more than five times the hypothesis.
+**True.** Although these properties are really more expensive, they are much more expensive than supposed: around 213% and 211% more expensive, on average and on median, respectively. That represents more than five times the hypothesis.
 
 **Hypothesis 2:** Properties with construction date earlier than 1950 are 10% cheaper on average and 15% on median.
 
