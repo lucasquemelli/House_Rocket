@@ -47,6 +47,10 @@ Furthermore, in order to improve the decision making, the House Rocket's CEO cre
 
 # 4. Top 3 Data Insights
 
+**Hypothesis 1:** Properties with waterfront are 45% more expensive on average and 40% on median.
+
+**True.** While they really are more expensive, they are much more expensive than supposed: around 213% and 211% more expensive, on average and on median, respectively. That represents more than five times the hypothesis. 
+
 # 5. Business Results
 
 # 6. Conclusions 
