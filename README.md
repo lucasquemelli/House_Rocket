@@ -61,6 +61,10 @@ Furthermore, in order to improve the decision making, the House Rocket's CEO cre
 
 # 5. Business Results
 
+- An increase of **10%** in price (**profit**) for properties which had their **purchase price higher than the median price by region and by season**
+- An increase of **30%** in price (**profit**) for properties which had their **purchase price lower than the median price by region and by season**;
+- An increase of **45%** in price (**profit**) for properties which were **submitted to a renovation in the living area and bathrooms**.
+
 # 6. Conclusions 
 
 # 7. Next Steps
