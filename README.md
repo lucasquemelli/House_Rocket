@@ -57,7 +57,9 @@ Furthermore, in order to improve the decision making, the House Rocket's CEO cre
 
 **Hypothesis 7:** Renovated properties are 30% more expensive on average and 25% on median.
 
-**True**. As observed, renovated properties are more expensive. However, they cost 43.36% and 33.93% more, on average and on median, respectively. It is around 50% more than supposed. 
+**True**. As observed, renovated properties are more expensive. However, they cost 43.36% and 33.93% more, on average and on median, respectively. It is around 50% more than supposed.
+
+The **most correlated attributes** with the price are **living area** and **bathrooms**. Thus, that indicates a renovation should target these attributes and an increase of 45% (in price) is suggested since we observed this median price percentage difference for renovated properties in the dataset.
 
 # 5. Business Results
 
