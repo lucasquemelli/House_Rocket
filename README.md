@@ -70,3 +70,9 @@ Furthermore, in order to improve the decision making, the House Rocket's CEO cre
 The features which most correlate with price are living area (0.70), grade (0.67), built area above ground level (0.61) and bathrooms (0.53), based on correlation coefficient (R²). However, living area is the sum of basement area plus built area above ground level - only living area is necessary for analysis. Most properties costs around US$ 500,000.00 dollars and their prices increase with the number of bathrooms and grades. Properties with waterfront are the most expensive - about five times. Since the majority of properties (99%) do not have waterfront and are five times cheaper, these ones are prefered to be purchased. Properties constructed earlier than 1950 are 1.58% more expensive (on median) and may present structure problem, so they are not a choice. To do a renovation may increase the sale price in 45% and it is possible to reach between 10 and 30% of profit, approximately, by choosing the proper moment to resell a property, based on its region.
 
 # 7. Next Steps
+
+1. **Develop an app** that intakes the dataset and show the properties to be purchased based on their attributes and suggest when and the price to sell;
+
+2. **Apply a Machine Learn model** to take the decisions about purchase and resell the properties;
+
+3. **Use artificial neural networks (RNAs)** to make sales decisions. 
