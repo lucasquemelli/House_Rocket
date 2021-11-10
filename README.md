@@ -55,6 +55,10 @@ Furthermore, in order to improve the decision making, the House Rocket's CEO cre
 
 **False.** The properties constructed earlier than 1950 are 22.84% of the dataset. Although they are older, these properties are 1.58% and 4.7% more expensive, on average and on median, respectively.
 
+**Hypothesis 7:** Properties renovated are 30% more expensive on average and 25% on median.
+
+**True**. As observed, renovated properties are more expensive. However, they cost 43.36% and 33.93% more, on average and on median, respectively. It is around 50% more than supposed. 
+
 # 5. Business Results
 
 # 6. Conclusions 
