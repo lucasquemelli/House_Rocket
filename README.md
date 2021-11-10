@@ -37,11 +37,11 @@ Furthermore, in order to improve the decision making, the House Rocket's CEO cre
 
 **Step 02 - Feature selection**: identifying the most important attributes related to the price.
 
-**Step 03 - Assumptions test (Hypothesis test)**: testing the formulated assumptions.
+**Step 03 - Assumptions test (Hypothesis test) and business problems solutions**: testing the formulated hypothesis and solving the business problems set by the CEO.
 
 **Step 04 - Insights**: the highlight of the main insights.
 
-**Step 05 - Conversion of insights**: converting insights and the answers to business problems into business results.
+**Step 05 - Conversion of insights**: converting insights into business results.
 
 **Step 06 - Deploy**: publishing the results to Heroku (cloud environment).
 
