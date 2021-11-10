@@ -41,7 +41,7 @@ Furthermore, in order to improve the decision making, the House Rocket's CEO cre
 
 **Step 04 - Insights**: the highlight of the main insights.
 
-**Step 05 - Conversion of insights**: converting insights into business results.
+**Step 05 - Conversion of insights**: converting insights and the answers to business problems into business results.
 
 **Step 06 - Deploy**: publishing the results to Heroku (cloud environment).
 
