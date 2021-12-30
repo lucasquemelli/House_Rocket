@@ -1,5 +1,7 @@
 # House_Rocket
 
+<code><img width="100%" src="https://github.com/lucasquemelli/House_Rocket/blob/main/cover%20image/img-one.jpg"></code>
+
 # 1. Business Problems
 
 ### Description
