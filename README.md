@@ -6,7 +6,7 @@
 
 ### Description
 ---
-**House Rocket** is a fictiticious company whose business model is the purchase and sale of real estate.
+**House Rocket** is a fictitious company whose business model is the purchase and sale of real estate.
 
 **Purpose:** find the best business opportunities in the real estate market and maximize the company's revenue. 
 
